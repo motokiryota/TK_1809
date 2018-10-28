@@ -46,7 +46,13 @@ AWS　Amazon Transcribe
 * 
 
 #### デバイス
-* 
+* Infineon様の
+１．マイコン　Coretex M0　小型版 *1枚
+２．マイコン　Coretex M0　Aruduino 互換 *2枚
+３．マイコン　Coretex M4　Aruduino 互換 *2枚
+４．3次元磁気センサ*1枚
+７．角度センサ*1枚
+８．モーター駆動用ドライバ*2枚
 * 
 
 ### 研究内容・事前開発プロダクト（任意）
